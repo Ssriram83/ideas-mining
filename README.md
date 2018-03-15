@@ -23,4 +23,4 @@ Eg: Select a "tea shops" near me && order a tea
 Or: Issue command to my washing machine: Run at 10-11 PM tonight
 I want to see if we can stansdardize or write an adaptor that can translate my commands to this entity. 
 
-8. 
+8. Ability to track expiry dates of items that we buy and intimate when it nears expiry. When I am eligible to claim warranty. Ability to get\scan digital receipts. 
